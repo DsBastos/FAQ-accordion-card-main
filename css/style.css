@@ -21,7 +21,14 @@ html {
             box-sizing: border-box;
     font-size: 50%;
     }
+@media only screen and (min-width: 1440px) {
 
+    html {
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box;
+      font-size: 60%;
+      }
+    }
 body {
     display: flex;
     align-items: center;
@@ -135,6 +142,16 @@ body {
       margin-left: 0;
     }
   }
+  @media only screen and (min-width: 1440px) {
+    .cube-img {
+      position: absolute;
+      top: 25.75rem;
+      left: -9.6rem;
+      width: auto;
+      height: auto;
+      margin-left: 0;
+    }
+  }
   
   .card {
     display: -webkit-box;
@@ -154,7 +171,7 @@ body {
   }
   
 
-  @media only screen and (min-width: 1000px) {
+  @media only screen and (min-width: 1000px) and (max-width: 1439px) {
     .card {
       -webkit-box-orient: horizontal;
       -webkit-box-direction: normal;
@@ -169,7 +186,21 @@ body {
       overflow: hidden;
     }
   }
-  
+  @media only screen and (min-width: 1440px) {
+    .card {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      width: 110rem;
+      max-width: none;
+      height: 64rem; 
+      background: url(../img/bg-pattern-desktop.svg), white;
+      background-position: -62rem 68%;
+      background-repeat: no-repeat;
+      overflow: hidden;
+    }
+  }
   .card__img {
     -ms-flex-item-align: center;
         -ms-grid-row-align: center;
@@ -264,4 +295,4 @@ body {
       margin-bottom: 3rem;
     }
   }
-  }
+  
