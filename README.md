@@ -100,10 +100,10 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/daniel-bastos98/">
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/29290002?s=400&u=30a3e2a8c4f61097a9d2366964baefc176a60b89&v=4" width="100px;" alt="Daniel Bastos "/>
  <br />
- <sub><b>Daniel Bastos</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat"></a>
+ <sub><b>Daniel Bastos</b></sub></a> <a href="https://www.linkedin.com/in/daniel-bastos98/" title="Linkedin"></a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-bastos98/)](https://www.linkedin.com/in/daniel-bastos98/) 
